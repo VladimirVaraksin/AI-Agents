@@ -1,0 +1,10 @@
+openai~=1.68.2
+loguru~=0.7.3
+logger~=1.4
+python-dotenv~=1.1.0
+dotenv~=0.9.9
+langgraph~=0.3.20
+langchain-core~=0.3.49
+langchain-openai~=0.3.11
+langchain~=0.3.21
+langchain-community~=0.3.20
